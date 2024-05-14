@@ -1,0 +1,18 @@
+Instructions: 
+
+When you run the app, it requires or allows the user to search for the desired recipe. 
+
+The search function will make it easier for the user to get a recipe that they are looking for. 
+
+You will then get Ingredients Quantity and Unit and even get Foodgroup and calories. 
+
+After there will steps following for the recipe  
+
+Description of changes and improvements made: 
+
+Changes and improvements had to be made in order to meet the required requirements for the Recipe. 
+Firstly, in my code I had to change and use generic collections to store the recipes and other values instead of using arrays.
+My Recipe app required a function or feature to search for the name of the Recipe, this feature makes it easier for the user to search and get specific results in a short period of time. 
+The list of recipes is also required to appear in alphabetical order. For each ingredient, it should allow a user to be able to enter calories and shows which food group does it belongs to. 
+
+ 
